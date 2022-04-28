@@ -96,4 +96,4 @@ In this course you will apply various Data Analytics skills and techniques that 
 <img src= "/Certificates/Data%20Analysis%20with%20Python.jpg" width=60% height=60%>
 
 ---
-<p>&copy; 2021 Mohammad Tanvir Hossain </p>
+<p>&copy; 2022 Mohammad Tanvir Hossain </p>
