@@ -11,7 +11,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="/Certificates/IBM%20Data%20Analyst.PNG"
+<img src="/Certificates/IBM_DATA_ANALYST.jpg"
 
 ---
 
